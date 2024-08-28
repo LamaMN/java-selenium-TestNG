@@ -2,7 +2,7 @@
  Automation testing for amazon.com e-commerce website using Selenium webdriver and TestNG framework, and ExtentReports ITestListeners for generating reports.
 # Prerequisites
 * Eclipse IDE
-* Download desired WebDriver
+* JDK (version 21+)
 # Dependencies
 * Selenium 
 * TestNG
